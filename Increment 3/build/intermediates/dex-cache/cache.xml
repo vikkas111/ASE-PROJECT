@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/007a085f782b708520613051f47a44f5c3eb276a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_b6b4adae9b00e06eafff260f171dc62fbe6ce3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/commons-httpclient-3.1_4a4dc36cf76fdb9fe0edd710e838ab52636e7e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/2b601cf7ca49986d37e5cbeb5b73ca31db051eb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_ef4243c7f95e59498056b4ab20d377a29cb3a965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/a7fbec11265d9f63511195ac1be202d1209fbba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_91172c4dcd289f8e1b09ea0774282e286087a60d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc4b72b2381df84fc89b71dcfaf650f602e28faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/cdffd362f6769daeb04aa1734e90c85b630c7e88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_aec8ac3814e37756f7d27f2307359f6d7baf35ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/a894c97879c259cf3d3828ff0f515ea667b3a518/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_2e9f12c02348e3e90ecd1cbbfd70325589671766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpmime-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/httpmime-4.0.3_70d8120e06255ec30ae575aa7b2e204713968802.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpcore-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270fb05fc2ea278dfb1bd2f15fff4d9c662c6f3b">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.0_c462acef4a545be491e8289d2b036b261145b03b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c02aed0a6ccca839959786f0fac71e784805d349">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_56b06ecdea20a44fa53e1ba4119a6f49f333ae1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpcore-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="270fb05fc2ea278dfb1bd2f15fff4d9c662c6f3b">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/httpcore-4.0_c462acef4a545be491e8289d2b036b261145b03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/adbdd6c8c6596fb3fcdcc66b2fbbbc8353a60079/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_49d07ac41e72105df196ef12543d944a09725117.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/commons-httpclient-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-httpclient-3.1_4a4dc36cf76fdb9fe0edd710e838ab52636e7e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpclient-4.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18f4247ff4572a074444572cee34647c43e7c9c7">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.3.3_1b8f89eadd5824d4a7a5fcc16157cfad5eed1dde/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6_27a2444d423e9677a6f223ee554b7cb0197d3412.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/apache-mime4j-0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/2/apache-mime4j-0.6_27a2444d423e9677a6f223ee554b7cb0197d3412/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/21c78c898a964ead18a4b531b021498fbb157c8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_b2b1a8bff001fa097e4d3e22832d11a5470dfd08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpmime-4.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.0.3_70d8120e06255ec30ae575aa7b2e204713968802/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/libs/httpclient-4.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18f4247ff4572a074444572cee34647c43e7c9c7">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/httpclient-4.3.3_1b8f89eadd5824d4a7a5fcc16157cfad5eed1dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/a99851eb83272a47c551dc08a92270125b2eeb6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_153a9993764fb237ed109974ed2273d59661fdf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_ec37f7cefa367667daa4af1a2bde7e3e62e60f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dthyd3/.android/build-cache/816259592cd29db47ca745f5b007939f96ecb1cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/dthyd3/Documents/sr/WorkspaceAndroid/CriminalDatabase/app/build/intermediates/pre-dexed/debug/classes_9fcf089eca6c44f4e18c0a3bdaced5b9e83c5cd8.jar" />
+    </item>
+
+</items>
