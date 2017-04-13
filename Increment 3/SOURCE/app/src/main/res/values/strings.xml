@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CriminalDatabase</string>
+
+    <!-- Main Activity-->
+    <string name="main_btn_public_name">Public Module</string>
+    <string name="main_btn_police_name">Police Module</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
